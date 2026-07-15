@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" font-family="'Courier New', monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#21262d" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)" opacity="0.35"/>
+
+  <rect x="60" y="50" width="1080" height="220" rx="12" fill="#010409" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="92" cy="82" r="7" fill="#ff5f56"/>
+  <circle cx="117" cy="82" r="7" fill="#ffbd2e"/>
+  <circle cx="142" cy="82" r="7" fill="#27c93f"/>
+  <text x="600" y="87" fill="#8b949e" font-size="14" text-anchor="middle">zehedisode — zsh — 120×40</text>
+
+  <text x="92" y="142" fill="#39d353" font-size="22" filter="url(#glow)">zehedisode@github<tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
+  <text x="92" y="182" fill="#e6edf3" font-size="22">AI &amp; LLM Developer <tspan fill="#8b949e">//</tspan> automation, trading bots &amp; opencode tools</text>
+  <text x="92" y="222" fill="#e6edf3" font-size="22">open-source builder <tspan fill="#39d353">✔</tspan> <tspan fill="#8b949e">//</tspan> spec-driven workflows</text>
+  <text x="92" y="262" fill="#39d353" font-size="22" filter="url(#glow)">zehedisode@github<tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">./build future</tspan><tspan fill="#39d353">_<animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+</svg>
