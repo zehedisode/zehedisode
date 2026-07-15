@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="zehedisode terminal banner">
+  <img src="banner-new.svg" width="100%" alt="zehedisode terminal banner">
 </p>
 
 <h1 align="center">👋 Merhaba, ben zehedisode</h1>
