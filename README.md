@@ -6,27 +6,28 @@
 <p align="center"><b>AI &amp; LLM Developer</b> — otomasyon, trading botları ve opencode agent/araçları üretiyorum.</p>
 
 <p align="center">
-  <a href="https://github.com/zehedisode?tab=repositories"><img src="https://img.shields.io/badge/Repos-5-blue?style=flat-square&logo=github" alt="repos"></a>
-  <a href="https://github.com/zehedisode"><img src="https://img.shields.io/badge/Follow-@zehedisode-1f6feb?style=flat-square&logo=github" alt="follow"></a>
+  <img src="https://img.shields.io/badge/Repos-5-blue?style=flat-square&logo=github" alt="repos">
+  <img src="https://img.shields.io/badge/Follow-@zehedisode-1f6feb?style=flat-square&logo=github" alt="follow">
   <img src="https://img.shields.io/badge/2FA-Enabled-2ea043?style=flat-square&logo=github" alt="2fa">
   <img src="https://img.shields.io/badge/Commits-Signed-8957e5?style=flat-square&logo=gpg" alt="gpg">
+  <img src="https://img.shields.io/badge/Location-Türkiye-ff69b4?style=flat-square&logo=github" alt="location">
 </p>
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=zehedisode&theme=github-dark">
-    <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=zehedisode&theme=github-light">
-  </picture>
-</p>
+## 📟 Neofetch (terminal tarzı)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zehedisode&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehedisode&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
-</p>
-
----
+```text
+       zehedisode@github
+       -----------------
+  OS:   GitHub Profili (Türkiye)
+  Lang: Python, JavaScript, TypeScript, HTML, Shell, PowerShell
+  Repos: 5   | Stars: 5
+  Followers: 0 | Following: 0
+  Editor: Cursor, VSCode, Neovim
+  Stack: LLM orkestrasyonu, otomasyon, trading botları, opencode
+  Status: building open-source ✦
+```
 
 ## 🧰 Tech Stack
 
@@ -67,7 +68,7 @@ $ ./build future
 
 ## 📫 İletişim
 
-- 🌐 Blog / Link: [github.com/zehedisode](https://github.com/zehedisode)
+- 🌐 Link: [github.com/zehedisode](https://github.com/zehedisode)
 - 📫 Issues & PR'ler için repolarımı kullanabilirsin
 
 ---
